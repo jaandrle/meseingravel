@@ -74,7 +74,7 @@ function meseingravel:add_weathering(full_grown, names, interval, chance)
 	-- \check\ Floor must be solid block (A water can not spill from the Water with gravel.)
 				pos.y = pos.y-1
 				node_under = minetest.env:get_node(pos).name
-				if (minetest.get_item_group(node_under, "crumbly") > 0) and
+				if ((minetest.get_item_group(node_under, "crumbly") > 0) or (minetest.env:get_node(pos).name == "air")) and
 				   (node_under ~= "meseingravel:gravelwithmese") then
 			-- | watergravel_ will be replace by default:gravel because water have spilled to box on position y-1
 					pos.y = pos.y+1
