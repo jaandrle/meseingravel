@@ -30,7 +30,7 @@ minetest.register_craftitem("meseingravel:bucket_gravel", {
 					end
 					
 					if node_def and node_def.on_rightclick and
-					   user and not user:get_puncher_control().sneak then
+					   user and not user:get_player_control().sneak then
 						return node_def.on_rightclick(
 							pointed_thing.under,
 							node, user,
