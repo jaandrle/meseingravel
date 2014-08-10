@@ -22,6 +22,7 @@ After a lapse of time you see yellow points on the
 watergravel texture. You only dig the block and it drops mese a crystal fragment
 (+ crystal fragment with rarity 2 and another with rarity 4 and mese crystal
 with rarity 16).
+
 ## 3. This program is free software.
 It comes without any warranty, to
 the extent permitted by applicable law. You can redistribute it
