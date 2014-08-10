@@ -13,9 +13,11 @@
 ## 2. About
 The mod add new way to get mese crystals (mainly crystal fragments).
 At first you must add gravel block to a bucket with water (it is a craft recepy).
-Now you only pour the bucket of a "watergravel" on a ground. But it is important
+Now you only pour the bucket of a "watergravel" on a ground. But it is important 
 to know that water will disappear if you place the watergravel on nonsolid blocks
-(sand, gravel, dirt). After a lapse of time you see yellow points on the
+(sand, gravel, dirt).
+
+After a lapse of time you see yellow points on the
 watergravel texture. You only dig the block and it drops mese a crystal fragment
 (+ crystal fragment with rarity 2 and another with rarity 4 and mese crystal
 with rarity 16).
