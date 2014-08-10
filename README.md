@@ -11,7 +11,8 @@
 - **Depends**: default, bucket (by default)
 
 ## 2. About
-The mod add new way to get mese crystals (mainly crystal fragments).
+*The mod add new way to get mese crystals (mainly crystal fragments).*
+
 At first you must add gravel block to a bucket with water (it is a craft recepy).
 Now you only pour the bucket of a "watergravel" on a ground. But it is important 
 to know that water will disappear if you place the watergravel on nonsolid blocks
