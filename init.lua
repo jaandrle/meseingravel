@@ -2,7 +2,7 @@
 
 Minetest mod "meseingravel"
 	Autor: jaandrle (c) 2014
-	Last stable version: 1.5
+	Version: 1.5
 	License: WTFPL (code), CC BY-SA 3.0 (texture ... modify default texture pack)
 	More information: https://forum.minetest.net/viewtopic.php?f=11&t=9633
 
